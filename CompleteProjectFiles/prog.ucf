@@ -1,0 +1,10 @@
+NET "is_upward" loc = p43;
+NET "reset" loc = p107 | pullup;
+NET "clk" loc = p80;
+NET "output(6)" loc = p148;
+NET "output(5)" loc = p149;
+NET "output(4)" loc = p141;
+NET "output(3)" loc = p143;
+NET "output(2)" loc = p144;
+NET "output(1)" loc = p146;
+NET "output(0)" loc = p147;
